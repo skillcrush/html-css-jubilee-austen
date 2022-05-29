@@ -91,7 +91,8 @@ header h2 span {
 
 #skills .skill-list {
     float: left;
-    width: 400px;
+    width: 300px;
+    padding: 0 50px;
 }
 
 #skills h2 {
@@ -100,18 +101,14 @@ header h2 span {
     padding-bottom: 40px;
 }
 
-#skills img {
-    padding-bottom: 30px;
-}
-
 #skills h3 {
     font-size: 24px;
     line-height: 36px;
+    margin: 30px 0 20px 0;
 }
 
 #skills p {
     font-size: 20px;
     line-height: 40px;
     text-align: left;
-    padding: 0 50px;
 }

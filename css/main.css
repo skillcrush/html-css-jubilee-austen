@@ -190,3 +190,46 @@ header h2 span {
 #contact ul img {
     padding-right: 40px;
 }
+
+/****** Projects Page Styles ******/
+/****** Projects Page Header Styles ******/
+header.extra-hero {
+    background: #f9efef;
+}
+
+/****** Projects Page Projects Styles ******/
+#projects {
+    background-color: #f5f5f5;
+    text-align: center;
+}
+#projects .content-wrapper {
+    padding: 115px 0;
+}
+
+#projects .project-piece {
+    float: left;
+    width: 400px;
+}
+
+#projects h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+    padding-bottom: 40px;
+}
+
+#projects img {
+    width: 300px;
+    padding-bottom: 30px;
+}
+
+#projects h3 {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+#projects p {
+    font-size: 20px;
+    line-height: 40px;
+    padding: 0 50px;
+    text-align: left;
+}

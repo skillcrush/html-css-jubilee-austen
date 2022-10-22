@@ -12,10 +12,10 @@ body {
 
 /****** Header Styles ******/
 .homepage-hero {
-    height: 800px;
     background: url('../img/full-background.png'), #f9efef;
     background-size: cover;
     background-position: center;
+    height: 800px;
 }
 
 header h1 {

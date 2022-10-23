@@ -51,12 +51,8 @@ header h2 {
     font-family: 'Lora', serif;
     font-size: 72px;
     line-height: 80px;
-    color: #817f80;
     padding: 20px 0 20px 25px;
-}
-
-header h2 span {
-    color: #5e5d5e;
+    color: #817f80;
 }
 
 /****** About Styles ******/

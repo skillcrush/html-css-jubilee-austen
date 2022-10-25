@@ -76,37 +76,14 @@ header h2 {
 }
 
 /****** Skill Styles ******/
-#skills {
-    background-color: #f5f5f5;
-    text-align: center;
-}
 
-#skills .content-wrapper {
-    padding: 115px 0;
-}
 
-#skills .skill-list {
-    float: left;
-    width: 300px;
-    padding: 0 50px;
-}
 
-#skills h2 {
-    font-family: 'Lora', serif;
-    font-size: 36px;
-    padding-bottom: 40px;
-}
 
-#skills h3 {
-    font-size: 24px;
-    line-height: 36px;
-    margin: 30px 0 20px 0;
-}
 
-#skills p {
-    font-size: 20px;
-    line-height: 40px;
-    text-align: left;
-}
+
+
+
+
 
 /****** Contact Styles ******/

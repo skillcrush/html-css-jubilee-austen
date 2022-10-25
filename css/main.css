@@ -11,12 +11,6 @@ body {
 }
 
 /****** Header Styles ******/
-.homepage-hero {
-    background: url('../img/full-background.png'), #f9efef;
-    background-size: cover;
-    background-position: center;
-    height: 800px;
-}
 
 header h1 {
     float: left;
@@ -43,16 +37,6 @@ nav ul li a {
     font-size: 18px;
     color: #727172;
     padding-left: 80px;
-}
-
-header h2 {
-    width: 1000px;
-    clear: both;
-    font-family: 'Lora', serif;
-    font-size: 72px;
-    line-height: 80px;
-    padding: 20px 0 20px 25px;
-    color: #817f80;
 }
 
 /****** About Styles ******/

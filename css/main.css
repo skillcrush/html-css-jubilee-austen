@@ -150,34 +150,3 @@ header h2 {
     line-height: 36px;
 }
 
-#contact #email-header {
-    margin-bottom: 5px;
-}
-
-#contact #socialmedia-header {
-    margin: 20px 0 5px 0;
-}
-
-#contact #envelope {
-    padding-right: 10px;
-}
-
-#contact a {
-    text-decoration: none;
-    color: #5e5d5e;
-    font-size: 24px;
-    line-height: 36px;
-}
-
-#contact ul {
-    margin-top: 0;
-    padding-left: 0;
-}
-
-#contact ul li {
-    display: inline-block;
-}
-
-#contact ul img {
-    padding-right: 40px;
-}

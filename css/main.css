@@ -150,3 +150,10 @@ header h2 {
     line-height: 36px;
 }
 
+#contact #email-header {
+    margin-bottom: 5px;
+}
+
+#contact #socialmedia-header {
+    margin: 20px 0 5px 0;
+}
